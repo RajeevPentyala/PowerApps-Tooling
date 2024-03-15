@@ -84,10 +84,15 @@ public class ControlObjectFactory : IObjectFactory
             if (!nestedTemplate.AddPropertiesToParent)
                 continue;
 
+            //var nestedControl = _controlFactory.Create(Guid.NewGuid().ToString(), nestedTemplate);
+            //if (control.Children == null)
+            //    control.Children = new List<Control>();
+            //control.Children.Add(nestedControl);
+
             var nestedControl = _controlFactory.Create(Guid.NewGuid().ToString(), nestedTemplate);
-            if (control.Children == null)
-                control.Children = new List<Control>();
+            control.Children ??= new List<Control>();
             control.Children.Add(nestedControl);
+
 
             // Move properties from parent to nested template
             for (var i = 0; i < control.Properties.Count; i++)

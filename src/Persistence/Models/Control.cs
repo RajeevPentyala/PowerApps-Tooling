@@ -57,12 +57,20 @@ public abstract record Control
     [YamlMember(Order = 2)]
     public ControlPropertiesCollection Properties { get; init; } = new();
 
+    ///// <summary>
+    ///// list of child controls nested under this control.
+    ///// This collection can be null in cases where the control does not support children.
+    ///// </summary>
+    //[YamlMember(Order = 3)]
+    //public IList<Control>? Children { get => _children; set => _children = value; }
+
     /// <summary>
-    /// list of child controls nested under this control.
+    /// List of child controls nested under this control.
     /// This collection can be null in cases where the control does not support children.
     /// </summary>
     [YamlMember(Order = 3)]
-    public IList<Control>? Children { get => _children; set => _children = value; }
+    public IList<Control>? Children { get; set; }
+
 
     [YamlIgnore]
     public ControlEditorState? EditorState { get; set; }
