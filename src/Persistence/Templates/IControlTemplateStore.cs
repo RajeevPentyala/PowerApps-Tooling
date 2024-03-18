@@ -3,7 +3,7 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+namespace CAT.PowerApps.Persistence.Templates;
 
 public interface IControlTemplateStore
 {

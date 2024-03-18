@@ -2,7 +2,7 @@
 // Licensed under the MIT License.
 
 using System.IO.Compression;
-using Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+using CAT.PowerApps.Persistence.MsApp;
 
 namespace Persistence.Tests.MsApp;
 

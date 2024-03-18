@@ -1,12 +1,12 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.IR;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+namespace CAT.Formulas.Tools.SourceTransforms;
 
 internal class GalleryTemplateTransform : IControlTemplateTransform
 {

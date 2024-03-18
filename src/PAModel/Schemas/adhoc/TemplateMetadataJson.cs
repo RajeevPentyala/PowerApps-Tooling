@@ -4,7 +4,7 @@
 using Microsoft.AppMagic.Authoring.Persistence;
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+namespace CAT.Formulas.Tools.Schemas;
 
 // From PowerApps-Client\src\Cloud\DocumentServer.Core\Document\Document\Persistence\Serialization\Schemas\Control\Template\TemplateMetadataJson.cs
 internal class TemplateMetadataJson

@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+namespace CAT.PowerApps.Persistence.Templates;
 
 public static class BuiltInTemplates
 {

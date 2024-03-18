@@ -1,9 +1,9 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.IR;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 /// <summary>
 /// Error codes from reading, writing (compiling) a document.

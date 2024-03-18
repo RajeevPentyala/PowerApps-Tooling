@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using System.IO.Compression;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Models;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+namespace CAT.PowerApps.Persistence.MsApp;
 
 /// <summary>
 /// base interface for MsappArchive

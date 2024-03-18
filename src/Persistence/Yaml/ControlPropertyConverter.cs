@@ -3,10 +3,10 @@
 
 using YamlDotNet.Core;
 using YamlDotNet.Serialization;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Models;
 using YamlDotNet.Core.Events;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+namespace CAT.PowerApps.Persistence.Yaml;
 
 internal class ControlPropertyConverter : IYamlTypeConverter
 {

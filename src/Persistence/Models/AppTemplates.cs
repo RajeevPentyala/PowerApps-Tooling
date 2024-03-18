@@ -3,7 +3,7 @@
 
 using System.Diagnostics.CodeAnalysis;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+namespace CAT.PowerApps.Persistence.Models;
 
 /// <summary>
 /// App Templates

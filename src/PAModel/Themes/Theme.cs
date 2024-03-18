@@ -2,13 +2,13 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.Extensions;
 using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Encapsulate the ThemeJson.
 internal class Theme

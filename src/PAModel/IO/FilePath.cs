@@ -4,9 +4,9 @@
 using System.IO;
 using System.Linq;
 using System.Text;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IO;
+namespace CAT.Formulas.Tools.IO;
 
 [DebuggerDisplay("{ToPlatformPath()}")]
 public class FilePath

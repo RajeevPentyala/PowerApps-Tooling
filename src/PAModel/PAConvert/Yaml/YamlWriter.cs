@@ -3,7 +3,7 @@
 
 using System.IO;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+namespace CAT.Formulas.Tools.Yaml;
 
 /// <summary>
 /// Helper to write out a safe subset of Yaml.

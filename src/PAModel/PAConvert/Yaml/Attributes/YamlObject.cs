@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+namespace CAT.Formulas.Tools.Yaml;
 
 /// <summary>
 /// Specifies that a object should be serialized to YAML.

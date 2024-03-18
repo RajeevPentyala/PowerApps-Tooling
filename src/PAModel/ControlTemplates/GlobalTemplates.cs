@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.EditorState;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
+namespace CAT.Formulas.Tools.ControlTemplates;
 
 internal class GlobalTemplates
 {

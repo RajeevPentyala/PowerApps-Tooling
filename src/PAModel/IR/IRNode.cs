@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using System.Linq;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.Extensions;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IR;
+namespace CAT.Formulas.Tools.IR;
 
 internal abstract class IRNode
 {

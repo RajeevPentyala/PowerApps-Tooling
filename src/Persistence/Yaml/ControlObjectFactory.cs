@@ -2,12 +2,12 @@
 // Licensed under the MIT License.
 
 using System.Collections;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Templates;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.ObjectFactories;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+namespace CAT.PowerApps.Persistence.Yaml;
 
 public class ControlObjectFactory : IObjectFactory
 {

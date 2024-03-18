@@ -4,11 +4,11 @@
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
 
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Raw kinds of files we recognize in the .msapp 
 public enum FileKind

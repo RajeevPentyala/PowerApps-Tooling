@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using System.IO.Compression;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+using CAT.PowerApps.Persistence.Yaml;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+namespace CAT.PowerApps.Persistence.MsApp;
 
 /// <summary>
 /// Msapp archive factory.

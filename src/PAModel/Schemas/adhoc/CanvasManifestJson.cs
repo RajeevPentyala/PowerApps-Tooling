@@ -3,7 +3,7 @@
 
 using Microsoft.AppMagic.Authoring.Persistence;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Manifest combines the various property/header/publish files into one. 
 internal class CanvasManifestJson

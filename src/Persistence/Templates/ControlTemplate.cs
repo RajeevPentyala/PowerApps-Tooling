@@ -2,10 +2,10 @@
 // Licensed under the MIT License.
 
 using System.Diagnostics.CodeAnalysis;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Collections;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Extensions;
+using CAT.PowerApps.Persistence.Collections;
+using CAT.PowerApps.Persistence.Extensions;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+namespace CAT.PowerApps.Persistence.Templates;
 
 [DebuggerDisplay("{Name}")]
 public record ControlTemplate

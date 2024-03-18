@@ -1,16 +1,16 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool;
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.MergeTool;
+using CAT.Formulas.Tools.MergeTool.Deltas;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 internal class MsAppTest
 {

@@ -4,7 +4,7 @@
 using System.IO;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+namespace CAT.Formulas.Tools.Yaml;
 
 /// <summary>
 /// Convert a dictionary to and from yaml

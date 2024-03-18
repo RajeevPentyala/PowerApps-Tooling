@@ -3,8 +3,8 @@
 
 using System.IO;
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
 
 namespace PAModelTests;
 

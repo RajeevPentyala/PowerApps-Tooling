@@ -1,11 +1,11 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.Extensions;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Serializers;
+namespace CAT.Formulas.Tools.Serializers;
 
 // Provides collection of all default rules.
 // Used by reader/writer to add/remove default rules - avoid redundancy.

@@ -2,10 +2,10 @@
 // Licensed under the MIT License.
 
 using System.Diagnostics.CodeAnalysis;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Collections;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Collections;
+using CAT.PowerApps.Persistence.Models;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+namespace CAT.PowerApps.Persistence.Templates;
 
 public class ControlFactory : IControlFactory
 {

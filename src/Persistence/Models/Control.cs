@@ -3,13 +3,13 @@
 
 using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Collections;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+using CAT.PowerApps.Persistence.Collections;
+using CAT.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Yaml;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.Callbacks;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+namespace CAT.PowerApps.Persistence.Models;
 
 [DebuggerDisplay("{Template?.DisplayName}: {Name}")]
 public abstract record Control

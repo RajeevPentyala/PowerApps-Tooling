@@ -1,13 +1,13 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Templates;
 using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 using YamlDotNet.Serialization.BufferedDeserialization.TypeDiscriminators;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+namespace CAT.PowerApps.Persistence.Yaml;
 
 internal class ControlTypeDiscriminator : ITypeDiscriminator
 {

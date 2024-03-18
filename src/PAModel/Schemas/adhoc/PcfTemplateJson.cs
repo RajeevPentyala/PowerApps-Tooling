@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+namespace CAT.Formulas.Tools.Schemas;
 
 // From PowerApps-Client\src\Cloud\DocumentServer.Core\Document\Document\Persistence\Serialization\Schemas\Control\Template\PcfTemplateJson.cs
 internal class PcfTemplateJson

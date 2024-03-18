@@ -1,9 +1,9 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence.Collections;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Collections;
+using CAT.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Templates;
 
 namespace Persistence.Tests.Templates;
 

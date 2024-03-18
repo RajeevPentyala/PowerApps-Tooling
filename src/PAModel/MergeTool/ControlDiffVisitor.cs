@@ -1,13 +1,13 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.MergeTool.Deltas;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool;
+namespace CAT.Formulas.Tools.MergeTool;
 
 internal class ControlDiffVisitor : DefaultVisitor<ControlDiffContext>
 {

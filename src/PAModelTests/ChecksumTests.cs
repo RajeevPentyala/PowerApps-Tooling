@@ -4,7 +4,7 @@
 using System.IO;
 using System.Reflection;
 using System.Text;
-using Microsoft.PowerPlatform.Formulas.Tools;
+using CAT.Formulas.Tools;
 
 namespace PAModelTests;
 

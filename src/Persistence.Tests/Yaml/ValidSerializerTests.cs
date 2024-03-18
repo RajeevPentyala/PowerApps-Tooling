@@ -1,8 +1,8 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+using CAT.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Yaml;
 using Persistence.Tests.Extensions;
 
 namespace Persistence.Tests.Yaml;

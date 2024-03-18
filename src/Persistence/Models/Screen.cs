@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using System.Diagnostics.CodeAnalysis;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Attributes;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Attributes;
+using CAT.PowerApps.Persistence.Templates;
 using YamlDotNet.Serialization;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+namespace CAT.PowerApps.Persistence.Models;
 
 [FirstClass(templateName: BuiltInTemplates.Screen)]
 [YamlSerializable]

@@ -3,7 +3,7 @@
 
 using System.Linq;
 using System.Text;
-using Microsoft.PowerPlatform.Formulas.Tools;
+using CAT.Formulas.Tools;
 
 namespace PAModelTests;
 
@@ -14,7 +14,7 @@ public class PublicSurfaceTests
     public void TestNamespace()
     {
         var asm = typeof(CanvasDocument).Assembly;
-        var publicNamespace = "Microsoft.PowerPlatform.Formulas.Tools";
+        var publicNamespace = "CAT.Formulas.Tools";
         var sb = new StringBuilder();
         foreach (var type in asm.GetTypes().Where(t => t.IsPublic))
         {

@@ -1,16 +1,16 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
 using System.Linq;
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
-using static Microsoft.PowerPlatform.Formulas.Tools.ControlInfoJson;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.Schemas;
+using static CAT.Formulas.Tools.ControlInfoJson;
+using CAT.Formulas.Tools.Extensions;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 internal static class IRStateHelpers
 {

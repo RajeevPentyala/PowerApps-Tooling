@@ -1,11 +1,11 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+using CAT.PowerApps.Persistence.MsApp;
+using CAT.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Yaml;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Extensions;
+namespace CAT.PowerApps.Persistence.Extensions;
 
 public static class ServiceCollectionExtensions
 {

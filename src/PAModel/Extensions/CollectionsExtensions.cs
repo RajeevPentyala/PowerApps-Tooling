@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using System.Linq;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.IR;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+namespace CAT.Formulas.Tools.Extensions;
 
 public static class CollectionsExtensions
 {

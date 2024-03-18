@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+namespace CAT.PowerApps.Persistence.Yaml;
 
 public record YamlDeserializerOptions
 {

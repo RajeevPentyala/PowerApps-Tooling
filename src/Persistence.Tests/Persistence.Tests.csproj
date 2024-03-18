@@ -33,7 +33,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Persistence\Microsoft.PowerPlatform.PowerApps.Persistence.csproj" />
+        <ProjectReference Include="..\Persistence\CAT.PowerApps.Persistence.csproj" />
     </ItemGroup>
 
 </Project>

@@ -2,7 +2,7 @@
 // Licensed under the MIT License.
 
 using System.IO;
-using Microsoft.PowerPlatform.Formulas.Tools;
+using CAT.Formulas.Tools;
 
 namespace PASopa;
 

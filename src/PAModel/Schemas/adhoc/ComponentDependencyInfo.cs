@@ -3,7 +3,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+namespace CAT.Formulas.Tools.Schemas;
 
 /// <summary>
 /// Describes Properties.LibraryDependencies, which is an ordered json array of these.

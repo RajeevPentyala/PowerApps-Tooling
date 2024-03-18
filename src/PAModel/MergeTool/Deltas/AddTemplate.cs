@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas.PcfControl;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Schemas.PcfControl;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class AddTemplate : IDelta
 {

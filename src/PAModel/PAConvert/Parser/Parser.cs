@@ -1,13 +1,13 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Yaml;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Parser;
+namespace CAT.Formulas.Tools.Parser;
 
 internal class Parser
 {

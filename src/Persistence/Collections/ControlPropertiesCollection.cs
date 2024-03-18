@@ -3,9 +3,9 @@
 
 using System.Collections;
 using System.Diagnostics.CodeAnalysis;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Models;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Collections;
+namespace CAT.PowerApps.Persistence.Collections;
 
 [DebuggerDisplay("Count = {Count}")]
 public class ControlPropertiesCollection : IReadOnlyDictionary<string, ControlPropertyValue>

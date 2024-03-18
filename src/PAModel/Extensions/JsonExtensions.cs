@@ -3,10 +3,10 @@
 
 using System.Text.Encodings.Web;
 using System.Text.Json;
-using Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
+using CAT.Formulas.Tools.JsonConverters;
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+namespace CAT.Formulas.Tools.Extensions;
 
 public static class JsonExtensions
 {

@@ -3,7 +3,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+namespace CAT.Formulas.Tools.EditorState;
 
 /// <summary>
 /// Contains property state for AutoLayout properties not written to .pa

@@ -2,19 +2,19 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.JsonConverters;
+using CAT.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Yaml;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Read/Write to an .msapp file. 
 internal static class MsAppSerializer

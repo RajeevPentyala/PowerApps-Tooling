@@ -4,9 +4,9 @@
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Microsoft.PowerPlatform.Formulas.Tools;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools;
+using CAT.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.IO;
 
 namespace PAModelTests;
 

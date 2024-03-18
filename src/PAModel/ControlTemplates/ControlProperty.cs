@@ -3,7 +3,7 @@
 using Microsoft.AppMagic.Authoring.Persistence;
 
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
+namespace CAT.Formulas.Tools.ControlTemplates;
 
 internal sealed class ControlProperty
 {

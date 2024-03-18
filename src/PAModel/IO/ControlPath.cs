@@ -3,7 +3,7 @@
 
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IO;
+namespace CAT.Formulas.Tools.IO;
 
 /// <summary>
 /// This represents a path to a control in a control tree

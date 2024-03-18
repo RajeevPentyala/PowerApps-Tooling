@@ -4,7 +4,7 @@
 using Microsoft.AppMagic.Authoring.Persistence;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class DocumentPropertiesChange : IDelta
 {

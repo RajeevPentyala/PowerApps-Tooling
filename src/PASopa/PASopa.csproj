@@ -16,7 +16,7 @@
   </PropertyGroup>
     
   <ItemGroup>
-    <ProjectReference Include="..\PAModel\Microsoft.PowerPlatform.Formulas.Tools.csproj" />
+    <ProjectReference Include="..\PAModel\CAT.Formulas.Tools.csproj" />
   </ItemGroup>
 
 </Project>

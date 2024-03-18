@@ -4,10 +4,10 @@
 using System.Diagnostics.Contracts;
 using System.Linq;
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.MergeTool.Deltas;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool;
+namespace CAT.Formulas.Tools.MergeTool;
 
 internal static class Diff
 {

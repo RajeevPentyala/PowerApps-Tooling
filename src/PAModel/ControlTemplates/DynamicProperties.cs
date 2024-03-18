@@ -1,10 +1,10 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.Serializers;
+using CAT.Formulas.Tools.Serializers;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
+namespace CAT.Formulas.Tools.ControlTemplates;
 
 // Responsible for handling dynamic properties and their default vaues
 internal static class DynamicProperties

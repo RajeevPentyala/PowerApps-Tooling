@@ -7,11 +7,11 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Logging;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+using CAT.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Yaml;
 using YamlDotNet.Serialization;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+namespace CAT.PowerApps.Persistence.MsApp;
 
 /// <summary>
 /// Represents a .msapp file.

@@ -1,10 +1,10 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IO;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class RemoveControl : IDelta
 {

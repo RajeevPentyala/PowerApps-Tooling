@@ -3,7 +3,7 @@
 
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+namespace CAT.Formulas.Tools.EditorState;
 
 internal class EditorStateStore
 {

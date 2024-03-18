@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
 using System.IO;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Logo file has a random filename that is continually regenerated, which creates Noisy Diffs.        
 // Find the file - based on the PublishInfo.LogoFileName and pull it out. 

@@ -1,13 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <AssemblyName>Microsoft.PowerPlatform.Formulas.Tools</AssemblyName>
-    <RootNamespace>Microsoft.PowerPlatform.Formulas.Tools</RootNamespace>
+    <AssemblyName>CAT.Formulas.Tools</AssemblyName>
+    <RootNamespace>CAT.Formulas.Tools</RootNamespace>
   </PropertyGroup>
 
   <!-- Nuget Properties -->
   <PropertyGroup>
-    <PackageId>Microsoft.PowerPlatform.Formulas.Tools</PackageId>
+    <PackageId>CAT.Formulas.Tools</PackageId>
     <Authors>Microsoft</Authors>
     <Company>crmsdk,Microsoft</Company>
     <Title>PowerPlatform Canvas App Tools</Title>
@@ -51,6 +51,6 @@
   </ItemGroup>
     
   <ItemGroup>
-    <ProjectReference Include="..\Persistence\Microsoft.PowerPlatform.PowerApps.Persistence.csproj" />
+    <ProjectReference Include="..\Persistence\CAT.PowerApps.Persistence.csproj" />
   </ItemGroup>
 </Project>

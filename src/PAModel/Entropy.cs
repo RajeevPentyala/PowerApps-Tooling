@@ -2,12 +2,12 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.Schemas;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Various data that we can save for round-tripping.
 // Everything here is optional!!

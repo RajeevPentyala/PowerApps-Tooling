@@ -1,12 +1,12 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.IR;
 using System.Collections;
 using System.IO;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 /// <summary>
 /// Container for errors (which may have prevented the operation)

@@ -4,7 +4,7 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+namespace CAT.Formulas.Tools.EditorState;
 
 /// <summary>
 /// Contains property state not written to .pa

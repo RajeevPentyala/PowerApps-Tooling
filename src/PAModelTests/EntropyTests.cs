@@ -2,9 +2,9 @@
 // Licensed under the MIT License.
 
 using System.IO;
-using Microsoft.PowerPlatform.Formulas.Tools;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.Schemas;
 
 namespace PAModelTests;
 

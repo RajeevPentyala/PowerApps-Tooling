@@ -1,12 +1,12 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Schemas;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class ChangeProperty : IDelta
 {

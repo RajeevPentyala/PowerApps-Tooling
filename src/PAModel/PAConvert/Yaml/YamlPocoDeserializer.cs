@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+namespace CAT.Formulas.Tools.Yaml;
 
 /// <summary>
 /// Deserializer from Yaml 

@@ -3,7 +3,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+namespace CAT.Formulas.Tools.Schemas;
 
 internal class CustomPropertyJson
 {

@@ -9,7 +9,7 @@
 
   <!-- Nuget Properties -->
   <PropertyGroup>
-    <PackageId>Microsoft.PowerPlatform.PowerApps.Persistence</PackageId>
+    <PackageId>CAT.PowerApps.Persistence</PackageId>
     <Authors>Microsoft</Authors>
     <Company>crmsdk,Microsoft</Company>
     <Title>Microsoft Power Platform Canvas App Persistence Library</Title>

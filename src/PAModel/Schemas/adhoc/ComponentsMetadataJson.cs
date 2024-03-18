@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // A minimal representation of the data component manifest
 // This is client-only. 

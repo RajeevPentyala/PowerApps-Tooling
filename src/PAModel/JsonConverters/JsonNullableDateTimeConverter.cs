@@ -3,7 +3,7 @@
 
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
+namespace CAT.Formulas.Tools.JsonConverters;
 
 internal class JsonNullableDateTimeConverter : System.Text.Json.Serialization.JsonConverter<DateTime?>
 {

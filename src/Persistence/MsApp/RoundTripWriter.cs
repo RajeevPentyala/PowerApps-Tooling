@@ -3,7 +3,7 @@
 
 using System.Text;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+namespace CAT.PowerApps.Persistence.MsApp;
 
 /// <summary>
 /// Writer which compares the output with the input during serialization.

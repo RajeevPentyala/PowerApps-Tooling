@@ -3,10 +3,10 @@
 
 using System.IO;
 using System.Text;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IR;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+namespace CAT.Formulas.Tools.Yaml;
 
 /// <summary>
 /// Helper to read our strict subset of Yaml.

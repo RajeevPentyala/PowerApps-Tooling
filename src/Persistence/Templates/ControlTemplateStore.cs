@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using System.Diagnostics.CodeAnalysis;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Attributes;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Extensions;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+using CAT.PowerApps.Persistence.Attributes;
+using CAT.PowerApps.Persistence.Extensions;
+using CAT.PowerApps.Persistence.Models;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+namespace CAT.PowerApps.Persistence.Templates;
 
 /// <summary>
 /// Control template store.

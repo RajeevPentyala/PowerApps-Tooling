@@ -3,7 +3,7 @@
 
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IR;
+namespace CAT.Formulas.Tools.IR;
 
 internal class UniqueIdRestorer
 {

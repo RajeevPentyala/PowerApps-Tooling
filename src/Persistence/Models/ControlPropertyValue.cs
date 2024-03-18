@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+namespace CAT.PowerApps.Persistence.Models;
 
 [DebuggerDisplay("{Value}")]
 public sealed record ControlPropertyValue

@@ -1,14 +1,14 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Parser;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Parser;
+using CAT.Formulas.Tools.Yaml;
 using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Result is a bunch of strings, context is indentLevel
 internal class PAWriterVisitor : IRNodeVisitor<PAWriterVisitor.Context>

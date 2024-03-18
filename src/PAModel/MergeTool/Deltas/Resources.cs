@@ -1,12 +1,12 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas;
 using System.Linq;
 using System.Diagnostics.Contracts;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IO;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class AddResource : IDelta
 {

@@ -3,11 +3,11 @@
 
 using System.IO;
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+using CAT.Formulas.Tools;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.SourceTransforms;
 
 namespace PAModelTests;
 

@@ -2,7 +2,7 @@
 // Licensed under the MIT License.
 
 using System.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.Yaml;
 
 namespace PAModelTests.YamlSerializerTests;
 

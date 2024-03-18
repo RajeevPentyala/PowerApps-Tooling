@@ -4,7 +4,7 @@
 using System.IO.Compression;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+namespace CAT.Formulas.Tools.Extensions;
 
 public static class ZipArchiveExtensions
 {

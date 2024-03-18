@@ -4,7 +4,7 @@
 using YamlDotNet.Core;
 using YamlDotNet.Serialization;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Yaml;
+namespace CAT.PowerApps.Persistence.Yaml;
 
 public class EmptyPropertyDescriptor : IPropertyDescriptor
 {

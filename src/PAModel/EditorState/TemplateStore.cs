@@ -1,9 +1,9 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.Extensions;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+namespace CAT.Formulas.Tools.EditorState;
 
 internal class TemplateStore
 {

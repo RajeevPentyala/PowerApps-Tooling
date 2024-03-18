@@ -2,21 +2,21 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas.PcfControl;
-using Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.JsonConverters;
+using CAT.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas.PcfControl;
+using CAT.Formulas.Tools.SourceTransforms;
 using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Read/Write to a source format. 
 internal static partial class SourceSerializer
@@ -71,8 +71,8 @@ internal static partial class SourceSerializer
 
     internal const string AppTestControlName = "Test_7F478737223C4B69";
     internal const string AppTestControlType = "AppTest";
-    private const string DefaultThemeFileName = "Microsoft.PowerPlatform.Formulas.Tools.Themes.DefaultTheme.json";
-    private const string BuildVerFileName = "Microsoft.PowerPlatform.Formulas.Tools.Build.BuildVer.json";
+    private const string DefaultThemeFileName = "CAT.Formulas.Tools.Themes.DefaultTheme.json";
+    private const string BuildVerFileName = "CAT.Formulas.Tools.Build.BuildVer.json";
     private static readonly BuildVerJson _buildVerJson = GetBuildDetails();
 
     // Full fidelity read-write

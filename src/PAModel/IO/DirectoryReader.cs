@@ -4,11 +4,11 @@
 using System.IO;
 using System.Linq;
 using System.Text.Json;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Yaml;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IO;
+namespace CAT.Formulas.Tools.IO;
 
 /// <summary>
 /// Abstraction over file system. 

@@ -5,14 +5,14 @@ using Microsoft.AppMagic.Authoring.Persistence;
 using System.Reflection;
 using System.Xml.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
+namespace CAT.Formulas.Tools.ControlTemplates;
 
 internal class CommonControlProperties
 {
     // Key is property name
     private readonly Dictionary<string, ControlProperty> _properties = new();
 
-    private const string FileName = "Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates.commonStyleProperties.xml";
+    private const string FileName = "CAT.Formulas.Tools.ControlTemplates.commonStyleProperties.xml";
     private static CommonControlProperties _instance;
 
     public static CommonControlProperties Instance

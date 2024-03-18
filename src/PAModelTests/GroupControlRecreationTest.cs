@@ -3,8 +3,8 @@
 
 using System.IO;
 using System.Linq;
-using Microsoft.PowerPlatform.Formulas.Tools;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools;
+using CAT.Formulas.Tools.IR;
 
 namespace PAModelTests;
 

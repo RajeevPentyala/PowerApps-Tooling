@@ -2,11 +2,11 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas;
 using System.Text.Json.Serialization;
-using static Microsoft.PowerPlatform.Formulas.Tools.ControlInfoJson;
+using static CAT.Formulas.Tools.ControlInfoJson;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.EditorState;
+namespace CAT.Formulas.Tools.EditorState;
 
 // A combination of the control templates present in Templates.json and the control files
 internal class CombinedTemplateState

@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools;
+using CAT.Formulas.Tools;
 using System.Text.Json.Serialization;
 
 namespace Microsoft.AppMagic.Authoring.Persistence;

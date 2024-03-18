@@ -1,11 +1,11 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas;
+namespace CAT.Formulas.Tools.Schemas;
 
 public enum ContentKind
 {

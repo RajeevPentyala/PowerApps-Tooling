@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IR;
+namespace CAT.Formulas.Tools.IR;
 
 internal abstract class IRNodeVisitor<Context>
 {

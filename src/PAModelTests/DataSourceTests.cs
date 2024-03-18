@@ -6,9 +6,9 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
+using CAT.Formulas.Tools;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
 
 namespace PAModelTests;
 

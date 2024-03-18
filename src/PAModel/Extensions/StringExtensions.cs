@@ -3,7 +3,7 @@
 
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+namespace CAT.Formulas.Tools.Extensions;
 
 public static class StringExtensions
 {

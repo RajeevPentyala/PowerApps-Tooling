@@ -1,14 +1,14 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Serializers;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Serializers;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+namespace CAT.Formulas.Tools.SourceTransforms;
 
 internal class DefaultValuesTransform
 {

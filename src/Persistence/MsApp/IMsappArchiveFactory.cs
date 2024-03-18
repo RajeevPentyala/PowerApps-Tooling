@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+namespace CAT.PowerApps.Persistence.MsApp;
 
 /// <summary>
 /// Msapp archive factory.

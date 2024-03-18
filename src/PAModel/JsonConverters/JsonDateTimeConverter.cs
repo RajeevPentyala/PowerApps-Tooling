@@ -4,7 +4,7 @@
 using System.Globalization;
 using System.Text.Json;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
+namespace CAT.Formulas.Tools.JsonConverters;
 
 internal class JsonDateTimeConverter : System.Text.Json.Serialization.JsonConverter<DateTime>
 {

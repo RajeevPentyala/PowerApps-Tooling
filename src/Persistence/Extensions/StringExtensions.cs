@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Extensions;
+namespace CAT.PowerApps.Persistence.Extensions;
 public static class StringExtensions
 {
     public static string FirstCharToUpper(this string input)

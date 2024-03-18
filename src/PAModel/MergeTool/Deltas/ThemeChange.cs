@@ -3,7 +3,7 @@
 
 using Microsoft.AppMagic.Authoring.Persistence;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+namespace CAT.Formulas.Tools.MergeTool.Deltas;
 
 internal class ThemeChange : IDelta
 {

@@ -4,7 +4,7 @@
 using System.Globalization;
 using System.Text;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Parser;
+namespace CAT.Formulas.Tools.Parser;
 
 internal static class CharacterUtils
 {

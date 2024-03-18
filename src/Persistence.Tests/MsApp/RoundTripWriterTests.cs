@@ -1,8 +1,8 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence;
-using Microsoft.PowerPlatform.PowerApps.Persistence.MsApp;
+using CAT.PowerApps.Persistence;
+using CAT.PowerApps.Persistence.MsApp;
 
 namespace Persistence.Tests.MsApp;
 

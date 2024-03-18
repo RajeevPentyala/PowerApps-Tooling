@@ -1,11 +1,11 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool;
-using Microsoft.PowerPlatform.Formulas.Tools.MergeTool.Deltas;
+using CAT.Formulas.Tools.MergeTool;
+using CAT.Formulas.Tools.MergeTool.Deltas;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 public static class CanvasMerger
 {

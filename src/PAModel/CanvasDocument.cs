@@ -2,18 +2,18 @@
 // Licensed under the MIT License.
 
 using Microsoft.AppMagic.Authoring.Persistence;
-using Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.IO;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas;
-using Microsoft.PowerPlatform.Formulas.Tools.Schemas.PcfControl;
-using Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+using CAT.Formulas.Tools.ControlTemplates;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.IO;
+using CAT.Formulas.Tools.IR;
+using CAT.Formulas.Tools.Schemas;
+using CAT.Formulas.Tools.Schemas.PcfControl;
+using CAT.Formulas.Tools.SourceTransforms;
 using System.IO;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 /// <summary>
 /// Represents a PowerApps document.  This can be save/loaded from a MsApp or Source representation. 

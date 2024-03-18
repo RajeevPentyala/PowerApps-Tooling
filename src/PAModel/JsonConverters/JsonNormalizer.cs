@@ -7,7 +7,7 @@ using System.Linq;
 using System.IO;
 using System.Text.Encodings.Web;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
+namespace CAT.Formulas.Tools.JsonConverters;
 
 /// <summary>
 /// Write out Json in a normalized sorted order. 

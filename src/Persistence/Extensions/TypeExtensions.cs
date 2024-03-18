@@ -1,9 +1,9 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.PowerApps.Persistence.Attributes;
+using CAT.PowerApps.Persistence.Attributes;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Extensions;
+namespace CAT.PowerApps.Persistence.Extensions;
 
 internal static class TypeExtensions
 {

@@ -8,7 +8,7 @@ using System.Text.Encodings.Web;
 using System.Text.Json;
 
 
-namespace Microsoft.PowerPlatform.Formulas.Tools;
+namespace CAT.Formulas.Tools;
 
 // Helpers for creating checksums. 
 internal interface IHashMaker : IDisposable

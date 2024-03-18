@@ -3,9 +3,9 @@
 
 using System.Diagnostics.CodeAnalysis;
 using System.Text.Json.Serialization;
-using Microsoft.PowerPlatform.PowerApps.Persistence.Templates;
+using CAT.PowerApps.Persistence.Templates;
 
-namespace Microsoft.PowerPlatform.PowerApps.Persistence.Models;
+namespace CAT.PowerApps.Persistence.Models;
 
 /// <summary>
 /// Per control, this is the Power Apps Studio state content that doesn't impact app functionality like IsLocked

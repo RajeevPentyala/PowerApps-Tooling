@@ -1,14 +1,14 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.Extensions;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using JsonSerializer = System.Text.Json.JsonSerializer;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas.PcfControl;
+namespace CAT.Formulas.Tools.Schemas.PcfControl;
 
 internal class PcfControl
 {

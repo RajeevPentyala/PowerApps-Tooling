@@ -5,11 +5,11 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Xml.Linq;
-using Microsoft.PowerPlatform.Formulas.Tools.Extensions;
-using Microsoft.PowerPlatform.Formulas.Tools.JsonConverters;
-using Microsoft.PowerPlatform.Formulas.Tools.Yaml;
+using CAT.Formulas.Tools.Extensions;
+using CAT.Formulas.Tools.JsonConverters;
+using CAT.Formulas.Tools.Yaml;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IO;
+namespace CAT.Formulas.Tools.IO;
 
 /// <summary>
 /// Abstraction over file system. 

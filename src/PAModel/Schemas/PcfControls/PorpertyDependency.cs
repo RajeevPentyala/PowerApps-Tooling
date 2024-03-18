@@ -3,7 +3,7 @@
 
 using System.Text.Json.Serialization;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.Schemas.PcfControl;
+namespace CAT.Formulas.Tools.Schemas.PcfControl;
 
 internal struct PropertyDependency
 {

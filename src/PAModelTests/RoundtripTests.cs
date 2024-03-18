@@ -3,7 +3,7 @@
 
 using System.IO;
 using System.Threading.Tasks;
-using Microsoft.PowerPlatform.Formulas.Tools;
+using CAT.Formulas.Tools;
 
 namespace PAModelTests;
 

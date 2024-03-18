@@ -1,11 +1,11 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-using Microsoft.PowerPlatform.Formulas.Tools.EditorState;
-using Microsoft.PowerPlatform.Formulas.Tools.IR;
+using CAT.Formulas.Tools.EditorState;
+using CAT.Formulas.Tools.IR;
 using System.Linq;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.SourceTransforms;
+namespace CAT.Formulas.Tools.SourceTransforms;
 
 /// <summary>
 /// This class is responsible for rewriting group control definitions based on the GroupedControlsKey

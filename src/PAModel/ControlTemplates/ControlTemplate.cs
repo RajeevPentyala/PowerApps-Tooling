@@ -1,7 +1,7 @@
 // Copyright (c) Microsoft Corporation.
 // Licensed under the MIT License.
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.ControlTemplates;
+namespace CAT.Formulas.Tools.ControlTemplates;
 
 internal sealed class ControlTemplate
 {

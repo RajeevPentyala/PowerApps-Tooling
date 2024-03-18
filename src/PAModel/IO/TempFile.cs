@@ -3,7 +3,7 @@
 
 using System.IO;
 
-namespace Microsoft.PowerPlatform.Formulas.Tools.IO;
+namespace CAT.Formulas.Tools.IO;
 
 /// <summary>
 /// Return a full path for a temporary file, and delete it at Dispose.
